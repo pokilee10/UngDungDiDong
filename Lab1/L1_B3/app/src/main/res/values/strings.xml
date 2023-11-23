@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bai_3</string>
+    <string name="sign_in">Sign in</string>
+    <string name="signin">Sign in</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="facebook">Sign in via Facebook</string>
+    <string name="sign_up">Sign up</string>
+</resources>
