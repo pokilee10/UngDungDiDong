@@ -18,6 +18,7 @@ public class MainActivityNew extends AppCompatActivity {
     public void openActivity(View view){
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
+        overridePendingTransition(R.anim.anim_move_in_right, R.anim.anim_move_out_right);
     }
 
     @Override
